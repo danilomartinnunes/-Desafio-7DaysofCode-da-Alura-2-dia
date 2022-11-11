@@ -1,0 +1,47 @@
+body {
+  background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+}
+
+header {
+  text-align: center;
+  color: white;
+}
+
+input {
+  padding: 8px 16px;
+  background: #ecf4ff;
+  border-radius: 100px;
+  border: 2px solid #0e1d2f;
+  box-sizing: border-box;
+}
+
+.perguntas {
+  text-align: center;
+  background: #ecf4ff;
+  color: #1c1c1c;
+  margin: 64px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px;
+  padding: 64px;
+}
+
+button {
+  align-self: flex-end;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 16px;
+  background: #ecf4ff;
+  border-radius: 100px;
+  border: 2px solid #0e1d2f;
+  box-sizing: border-box;
+}
+
+.mensagem {
+  text-align: center;
+  color: white;
+}
+
+.resposta-sn {
+  text-align: center;
+  color: white;
+}
